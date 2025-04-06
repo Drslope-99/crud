@@ -14,7 +14,7 @@
         <header class="d-flex justify-content-between my-4">
             <h1>Add New Book</h1>
             <div>
-                <a href="" class="btn btn-primary">Back</a>
+                <a href="index.php" class="btn btn-primary">Back</a>
             </div>
         </header>
         <form action="process.php" method="POST">
